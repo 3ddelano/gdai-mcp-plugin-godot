@@ -4,7 +4,7 @@
 
 **GDAI MCP Godot Plugin** allows AI to control the Godot Editor to create scenes, nodes, scripts. It can debug script errors, debugger and output logs.
 
-> 🔗 [Get the Plugin](#) &nbsp;
+> 🔗 [Get the Plugin](https://gdaimcp.delanolourenco.xyz/) &nbsp;
 
 ---
 
@@ -41,15 +41,15 @@ Use the GDAI MCP Plugin to control Godot from any MCP Client like Cursor, Windsu
 
 1. **Install in Godot Project**  
    Add the GDAI MCP Plugin to your Godot project.  
-   [Installation Guide](#)
+   [Installation Guide](https://gdaimcp.delanolourenco.xyz/docs/installation)
 
 2. **Add command in MCP Client**  
    Add the MCP server command to your MCP Client's config.  
-   [MCP Client Config](#)
+   [MCP Client Config](https://gdaimcp.delanolourenco.xyz/docs/installation#2-install-in-mcp-client)
 
 3. **Start Chatting**  
    Start chatting and see the MCP action!  
-   [Examples](#)
+   [Examples](https://gdaimcp.delanolourenco.xyz/docs/examples)
 
 ---
 
@@ -110,7 +110,7 @@ Yes, detailed docs are available.
 
 Unlock the full potential of AI through automated game development via the GDAI MCP Plugin.
 
-> [🔗 Get the plugin](#)
+> [🔗 Get the plugin](https://gdaimcp.delanolourenco.xyz/)
 
 ---
 

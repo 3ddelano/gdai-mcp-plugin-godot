@@ -62,6 +62,8 @@ Running tool: `get_open_script`
 Running tool: `get_open_script_errors`  
 ...conversation continues
 
+See more examples at the end
+
 ---
 
 ## 🤝 Compatible MCP Clients
@@ -119,6 +121,30 @@ Unlock the full potential of AI through automated game development via the GDAI 
 
 ##### Have any question or feature requests?  
 Join the [Discord Server](https://discord.gg/FZY9TqW) or DM `@3ddelano`
+
+---
+
+### 💡 More examples
+
+- 3D Minecraft clone
+
+  [![3D Minecraft clone](http://img.youtube.com/vi/ybCBvvbGk5s/0.jpg)](https://youtube.com/shorts/ybCBvvbGk5s?si=XFcw_BINKK1A6RHQ)
+  
+- 3D car racing game
+
+  [![3D car racing game](http://img.youtube.com/vi/IeYTmrZOxcU/0.jpg)](https://youtube.com/shorts/IeYTmrZOxcU?si=WevMw8rrK-0t4rvy)
+
+- Create scene with nodes
+
+  [![Create scene with nodes](http://img.youtube.com/vi/0dz1Nb1maco/0.jpg)](https://youtu.be/0dz1Nb1maco?si=KZoQm__Hx6NR9K5R)
+
+- Edit GDScript files
+
+  [![Edit GDScript files](http://img.youtube.com/vi/oYev6V8u_Oo/0.jpg)](https://youtu.be/oYev6V8u_Oo?si=I1eehN-Tj6kTdCWo)
+
+---
+
+> 🔗 [Get the Plugin](https://gdaimcp.delanolourenco.xyz/) &nbsp;
 
 ---
 

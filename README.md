@@ -4,7 +4,7 @@
 
 **GDAI MCP Godot Plugin** allows AI to control the Godot Editor to create scenes, nodes, scripts. It can debug script errors, debugger and output logs.
 
-> 🔗 [Get the Plugin](https://gdaimcp.com) &nbsp;
+> 🔗 [Get the Plugin (https://gdaimcp.com)](https://gdaimcp.com) &nbsp;
 
 ---
 

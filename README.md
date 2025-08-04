@@ -12,7 +12,7 @@
 
 Take your Godot workflow to the next level by automating your game development.
 
-- **[NEW!] ✨ 📷 Automatically takes screenshots to visually understand the Godot editor**
+- **[NEW!] ✨ 📷 Automatically takes screenshots to visually understand the editor and running game.**
 
 - 🧱 **Create Scenes Programmatically**  
   Generates scenes, nodes, resources, scripts and more

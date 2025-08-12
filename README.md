@@ -146,8 +146,22 @@ Join the [Discord Server](https://discord.gg/FZY9TqW) or DM `@3ddelano`
 
 ---
 
+### Installation Guide
+
+Check out the detailed [Installation Guide](https://gdaimcp.com/docs/installation)
+
+---
+
+### 🔄 Update Guide
+
+Check out the detailed [Update Guide](https://gdaimcp.com/docs/update-guide)
+
+---
+
 > 🔗 [Get the Plugin](https://gdaimcp.com) &nbsp;
 
 ---
+
+[License](https://gdaimcp.com/license)
 
 © 2025 Delano Lourenco. All rights reserved.

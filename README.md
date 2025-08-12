@@ -157,11 +157,10 @@ Check out the detailed [Installation Guide](https://gdaimcp.com/docs/installatio
 Check out the detailed [Update Guide](https://gdaimcp.com/docs/update-guide)
 
 ---
-
-> 🔗 [Get the Plugin](https://gdaimcp.com) &nbsp;
+🔗 [Get the Plugin](https://gdaimcp.com) &nbsp;
 
 ---
 
-[License](https://gdaimcp.com/license)
+📄 [License](https://gdaimcp.com/license)
 
 © 2025 Delano Lourenco. All rights reserved.
